@@ -21,3 +21,7 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Deployment Check
+
+Redeploy test commit: 2026-05-30.
